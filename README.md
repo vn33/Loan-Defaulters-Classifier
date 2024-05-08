@@ -13,8 +13,8 @@ The project follows a systematic workflow, including:
 1. Exploratory Data Analysis (EDA): Analyzing the dataset to understand the distributions and relationships of features.
 2. Feature Engineering: Creating new features or transforming existing ones to improve model performance.
 3. Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
-4. Handling Imbalanced Data: Using techniques such as oversampling or undersampling to address class imbalance.
-5. Model Selection and Hyperparameter Tuning: Experimenting with various classifiers and optimizing hyperparameters using techniques like GridSearchCV or RandomizedSearchCV.
+4. Handling Imbalanced Data: Using techniques such as SMOTE to address class imbalance.
+5. Model Selection and Hyperparameter Tuning: Experimenting with various classifiers and optimizing hyperparameters using techniques like GridSearchCV , StratifiedKFold.
 6. Model Evaluation: Assessing model performance using metrics such as accuracy, F1-score, precision, recall, and AUC-ROC curve.
 7. Selection of Best Model: Identifying the XGBoost classifier as the best-performing model based on evaluation results.
 
