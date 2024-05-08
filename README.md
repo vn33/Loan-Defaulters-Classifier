@@ -1,5 +1,7 @@
 # Loan Default Prediction Model
 
+<img src="https://github.com/vn33/Loan-Defaulters-Classifier/blob/master/Evaluation_img.png">
+
 ## Overview
 This repository contains the implementation of a loan default prediction model using XGBoost. The model is trained to predict whether a loan applicant is likely to default based on various features such as income, credit score, loan amount, etc.
 
